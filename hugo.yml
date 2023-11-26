@@ -1,0 +1,164 @@
+baseURL: https://lastgenerationz.github.io/
+languageCode: en-us
+title: "lastgenerationz"
+theme: ["PaperMod", "plausible-hugo"]
+paginate: 200000
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+enableGitInfo: true
+
+# googleAnalytics: G-VC68GQDE93
+
+# disqusShortname: navendu
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
+
+related:
+  includeNewer: true
+  indices:
+  - name: categories
+    weight: 40
+  - name: tags
+    weight: 60
+  threshold: 90
+  toLower: false
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: "lastgenerationz"
+    description: ""
+    keywords: []
+    author: "lsll"
+    DateFormat: "January 2, 2006"
+    defaultTheme: dark # dark, light, auto
+    disableThemeToggle: true
+
+    mainSections: ['posts']
+
+    mermaid:
+      theme: "dark"
+      align: "center"
+
+    plausible:
+      enable: false
+      domain: "navendu.me"
+      proxy_netlify: true
+      outbound_link: true
+
+    ShowReadingTime: true
+    ShowLastMod: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowWordCount: false
+    ShowRssButtonInSectionTermList: true
+    UseHugoToc: false
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: false
+    hidemeta: false
+    hideSummary: false
+    showtoc: false
+    tocopen: false
+
+    images: ["images/preview.png","lastgenerationz", "https://navendu.me/"]
+
+    # home-info mode
+    homeInfoParams:
+        Title: "lastgenerationz"
+        Content:
+          Intro: this is lastgenerationz, a website of posts
+          About: here's ([about me](/about/)).
+          Action: if you're here for the first time, try my [featured posts](/categories/featured/). Make sure to subscribe via [email](/subscribe) or [RSS](/index.xml) to get regular updates.
+
+    subscribeInfo:
+      Text: if you liked this post, check out my [featured posts](/categories/featured) or subscribe with [RSS](/index.xml) to get regular updates.
+
+    # socialIcons:
+    #     - name: email
+    #       url: "mailto:navendu@apache.org"
+    #     - name: telegram
+    #       url: "https://t.me/MayTheSourceBeWithYou"
+    #     - name: github
+    #       url: "https://github.com/navendu-pottekkat"
+    #     - name: linkedin
+    #       url: "https://www.linkedin.com/in/navendup/"
+    #     # - name: medium
+    #     #   url: "https://medium.com/@navendupottekkat"
+    #     # - name: stackoverflow
+    #     #   url: "https://stackoverflow.com/users/12424846/navendu-pottekkat"
+    #     - name: twitter
+    #       url: "https://twitter.com/sudo_navendu"
+    #     - name: mastodon
+    #       url: "https://fosstodon.org/@sudo_navendu"
+    #     # - name: facebook
+    #     #   url: "https://www.facebook.com/navendupottekkat/"
+    #     # - name: instagram
+    #     #   url: "https://www.instagram.com/sudo_navendu/"
+    #     - name: youtube
+    #       url: "https://youtube.com/@sudo_navendu"
+    #     # - name: goodreads
+    #     #   url: "https://www.goodreads.com/user/show/83926433-navendu-pottekkat"
+    #     - name: rss
+    #       url: /index.xml
+    
+    cover:
+        hidden: true # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: false # hide on single page
+
+    # editPost:
+    #     URL: "https://github.com/navendu-pottekkat/navendu-pottekkat.github.io/blob/hugo/content"
+    #     Text: "Suggest Changes" # edit text
+    #     appendFilePath: true # to append file path to Edit link
+
+    # for search
+    # https://fusejs.io/api/options.html
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.1
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+menu:
+    main:
+        - identifier: archives
+          name: archives
+          url: /archives/
+          weight: 20
+        - identifier: categories
+          name: categories
+          url: /categories/
+          weight: 30
+        - identifier: daily
+          name: daily Logs
+          url: /categories/daily/
+          weight: 40
+        - identifier: about
+          name: about
+          url: /about/
+          weight: 50
+        - identifier: subscribe
+          name: subscribe
+          url: /subscribe/
+          weight: 60
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
