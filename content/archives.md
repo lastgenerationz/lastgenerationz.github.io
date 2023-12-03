@@ -2,9 +2,9 @@
 title: archives
 layout: archives
 url: /archives/
-description: all content in this blog
+description: all posts on this website
 summary: archives
-placeholder: search ↵
-created: 2023-11-26T16:18
-updated: 2023-11-26T16:18
+placeholder: search for posts by title, tags or content ↵
+date: 2023-11-26T16:18:14
+lastmod: 2023-12-03T12:40:49
 ---

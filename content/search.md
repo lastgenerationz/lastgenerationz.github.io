@@ -2,10 +2,10 @@
 title: search
 layout: search
 url: /search/
-description: search posts by title, tags or content
+description: search for posts by title, tags or content
 summary: search
 _build:
   render: never
-created: 2023-11-26T16:18
-updated: 2023-11-26T16:18
+date: 2023-11-26T16:18:14
+lastmod: 2023-12-03T12:40:54
 ---

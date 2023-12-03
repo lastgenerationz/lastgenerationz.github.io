@@ -11,6 +11,10 @@
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
+    {{- if site.Copyright }}
+    <br>
+    <span>{{ site.Copyright | markdownify }}</span>
+    {{- end }}
   </div>
 </article>
 

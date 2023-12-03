@@ -8,9 +8,6 @@
         <p class="intro">{{ .Content.About | markdownify }}</p>
         <p>{{ .Content.Action | markdownify }}</p>
     </div>
-    <footer class="entry-footer">
-        {{ partial "social_icons.html" site.Params.socialIcons }}
-    </footer>
-    {{ partial "subscription-form.html" . }}
+    
 </article>
 {{- end -}}

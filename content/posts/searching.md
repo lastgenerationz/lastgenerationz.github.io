@@ -1,12 +1,23 @@
 ---
-title: searching
+title: searching for information online - a guide
+categories:
+  - guide
 description: 
-keywords: 
 summary: 
+tags: 
+keywords: 
 draft: false
-created: 2023-11-25T11:47
-updated: 2023-11-26T16:11
 weight: 0
+aliases: 
+showToc: false
+cover:
+  image: 
+  alt: 
+  caption: 
+  relative: false
+date: 2023-11-25T13:35
+lastmod: 2023-12-03T15:51:23
+publishdate: 2023-12-02T14:07:00
 ---
 ## google
 
@@ -102,8 +113,14 @@ just kidding. you gotta know what source you would be likely to find it from
 - in an academic journal or paper
 - best of all, you can use AI
 
+#### images
 
+finding images can be hard, but [google advanced image search](https://www.google.com/advanced_image_search) is useful.
+
+and, yes, 
 
 
 ## references
 <https://youtu.be/tiN6T1LewmQ>
+<https://ahrefs.com/blog/google-advanced-search-operators/>
+
