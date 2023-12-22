@@ -1,5 +1,5 @@
 ---
-title: searching for information online - a guide
+title: guide - searching for information online
 categories:
   - guide
 description: 
@@ -16,7 +16,7 @@ cover:
   caption: 
   relative: false
 date: 2023-11-25T13:35
-lastmod: 2023-12-03T15:51:23
+lastmod: 2023-12-22T18:18:10
 publishdate: 2023-12-02T14:07:00
 ---
 ## google

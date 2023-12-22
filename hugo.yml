@@ -6,7 +6,7 @@ paginate: 200000
 
 author:
   name: lsll
-  email: lsll@duck.com
+
 
 copyright: all published works on this site are licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)
 
@@ -64,6 +64,7 @@ params:
     outbound_link: true
 
   ShowAllPagesInArchive: true
+  ShowFullTextinRSS: true
   ShowReadingTime: true
   ShowLastMod: true
   ShowShareButtons: false
@@ -79,16 +80,16 @@ params:
   hidemeta: false
   hideSummary: false
   showtoc: false
-  tocopen: false
+  tocopen: true
 
   images: ["images/preview.png","lastgenerationz", "https://lastgenerationz.github.io/"]
 
   homeInfoParams:
     Title: "lastgenerationz"
     Content:
-      Intro: this is lastgenerationz, a website of posts
+      Intro: this is lastgenerationz, a website of analysis and guides
       About: here is the [about page!](/about/)
-      Action: explore around, and use [RSS](/subscribe/) to get updates on new posts!
+      Action: explore, read and enjoy! would you like to [get updates?](/subscribe/)
 
   subscribeInfo:
     Text: you can check out [more posts](/categories/) and use [RSS](/subscribe/) to get updates on new posts!
@@ -144,7 +145,7 @@ params:
 menu:
   main:
     - identifier: archives
-      name: archives
+      name: search archives
       url: /archives/
       weight: 20
     - identifier: categories

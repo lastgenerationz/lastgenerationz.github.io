@@ -1,5 +1,5 @@
 ---
-title: rss feeds and content updates - a guide
+title: guide - rss feeds and content updates
 categories:
   - guide
 description: 
@@ -16,7 +16,7 @@ cover:
   caption: 
   relative: false
 date: 2023-12-03T10:34
-lastmod: 2023-12-03T15:50:32
+lastmod: 2023-12-22T18:18:31
 publishdate: 2023-12-02T14:07:00
 ---
 
@@ -53,10 +53,15 @@ open source RSS readers:
 
 ### feeds
 
-a RSS feed is a URL that hosts the updates and new content, here are some examples:
+a RSS feed is a URL that hosts the updates and new content.
 
-`https://lastgenerationz.github.io/index.xml` is the URL for all posts on this website
-`https://lastgenerationz.github.io/categories/daily/index.xml` is the feed for just daily posts on this website
+the feed urls for lastgenerationz, for example, are 
+
+`https://lastgenerationz.github.io/index.xml` is the URL for all posts
+`https://lastgenerationz.github.io/categories/guide/index.xml` is the feed for guides
+
+for other categories, head to [categories page](/categories/) and get url from the RSS icon next to the category title on the category page.
+
 
 
 #### popular sources
@@ -67,5 +72,5 @@ you can also find RSS feeds is from a browser extension that searches for feeds 
 
 ## afterword
 
-i hope this post helped you; RSS can be so useful - it's such a easy way of reading online content.
+i hope this post helped you; RSS can be so useful - it's such an easy way of reading online content.
 
