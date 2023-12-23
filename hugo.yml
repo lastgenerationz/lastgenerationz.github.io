@@ -152,10 +152,6 @@ menu:
       name: categories
       url: /categories/
       weight: 30
-    - identifier: daily
-      name: daily
-      url: /categories/daily/
-      weight: 40
     - identifier: about
       name: about
       url: /about/
