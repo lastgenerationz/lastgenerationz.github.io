@@ -4,10 +4,6 @@ title: "lastgenerationz"
 theme: ["PaperMod", "plausible-hugo"]
 paginate: 200000
 
-author:
-  name: lsll
-
-
 copyright: all published works on this site are licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)
 
 enableRobotsTXT: true
@@ -87,7 +83,7 @@ params:
   homeInfoParams:
     Title: "lastgenerationz"
     Content:
-      Intro: this is lastgenerationz, a website of analysis and guides
+      Intro: this is lastgenerationz, a website about analyzing, learning and writing
       About: here is the [about page!](/about/)
       Action: explore, read and enjoy! would you like to [get updates?](/subscribe/)
 
@@ -157,7 +153,7 @@ menu:
       url: /about/
       weight: 50
     - identifier: subscribe
-      name: subscribe
+      name: subscribe with rss
       url: /subscribe/
       weight: 60
 

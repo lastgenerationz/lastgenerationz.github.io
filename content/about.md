@@ -4,22 +4,29 @@ url: /about/
 layout: about
 description: about
 date: 2023-11-26T16:18:14
-lastmod: 2023-12-22T14:18:00
+lastmod: 2024-01-08T12:40:50
 ---
 
-lastgenerationz was first published in december 2023
+lastgenerationz is a website all about analyzing, learning and writing. and 
+was first published in december 2023
+
+
 
 let's see how many posts there'll be as time goes on...
 
 ## about us
 
-we are `let's share. let's learn.` so lsll for short
+the lastgenerationz project is part of `let's share. let's learn.`
 
 **thanks to all our team members who helps make lastgenerationz possible!**
 
 [sublime](https://sublimeclemency.github.io) - passionate poet
 
 [unknowner](https://youtube.com/@Un9knowner) - explorer
+
+lazycoder - the lazy one
+
+
 
 
 ## types of posts
@@ -30,7 +37,7 @@ we make guides and try to make them comprehensive, clear and concise.
 
 ### analyses
 
-we analyse and research some things and report our findings here for future reference.
+we analyze and research some things and report our findings here for future reference.
 
 you know what they say: it's best to write and think at the same time than to chase your thoughts around.
 

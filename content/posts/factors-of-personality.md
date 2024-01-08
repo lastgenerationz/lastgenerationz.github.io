@@ -1,6 +1,7 @@
 ---
 title: analysis - factors of personality
 categories:
+  - by sublime
   - analysis
 description: 
 summary: 
@@ -18,7 +19,7 @@ cover:
   caption: ""
   relative: false
 date: 2023-11-25T11:47
-lastmod: 2023-12-22T18:18:27
+lastmod: 2024-01-08T12:30:50
 publishdate: 2023-12-21T00:43:00
 ---
 i decided to research on personality because i was inspired by the definition of the 5 personality factors.

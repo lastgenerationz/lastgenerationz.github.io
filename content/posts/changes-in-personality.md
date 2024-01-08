@@ -1,6 +1,7 @@
 ---
 title: analysis - changes in one's personality
 categories:
+  - by sublime
   - analysis
 description: 
 summary: 
@@ -18,7 +19,7 @@ cover:
   caption: ""
   relative: false
 date: 2023-12-21T11:47:00
-lastmod: 2023-12-22T18:18:16
+lastmod: 2024-01-08T12:31:08
 publishdate: 2023-12-21T01:37:00
 ---
 ## intro

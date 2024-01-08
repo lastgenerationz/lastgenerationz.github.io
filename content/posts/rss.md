@@ -1,6 +1,7 @@
 ---
 title: guide - rss feeds and content updates
 categories:
+  - by sublime
   - guide
 description: 
 summary: websites can use RSS feeds to send updates
@@ -16,7 +17,7 @@ cover:
   caption: 
   relative: false
 date: 2023-12-03T10:34
-lastmod: 2023-12-22T18:18:31
+lastmod: 2024-01-08T12:30:55
 publishdate: 2023-12-02T14:07:00
 ---
 

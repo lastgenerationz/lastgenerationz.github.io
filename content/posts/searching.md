@@ -1,6 +1,7 @@
 ---
 title: guide - searching for information online
 categories:
+  - by lazycoder
   - guide
 description: 
 summary: 
@@ -16,7 +17,7 @@ cover:
   caption: 
   relative: false
 date: 2023-11-25T13:35
-lastmod: 2023-12-22T18:18:10
+lastmod: 2024-01-08T14:15:37
 publishdate: 2023-12-02T14:07:00
 ---
 ## google
@@ -25,40 +26,55 @@ when searching in google, using these arguments can make searching much easier.
 
 ### ""
 exact matching can make sure that the keyword is matched exactly.
+
 searching for `"searching methods"` will return results that match this exactly.
 
 ### intitle:
 matching your search term in the title of the webpage.
-searching for `intitle:searching methods` will match results with "searching" or "methods" in the title.
-combine this with "", like `intitle:"searching methods"` will match the exact string in the title.
 
-### allintitle:
-like intitle, but can input multiple search terms
+searching for `intitle:searching methods` will match results with "searching" or "methods" in the title.
+
+combine this with "", like `intitle:"searching methods"` will match the exact string in the title.
 
 ### intext:
 matching your search term in the content of the webpage.
+
 searching for `intext:searching methods` will match results with "searching" or "methods" in the content.
+
 combine this with "", like `intext:"searching methods"` will match the exact string in the content.
 
 ### inurl:
 results must come from matching url.
+
 searching for `inurl:medium searching methods` will match results for "searching methods" from websites that have "medium" in the url.
 
 ### site:
 results must come from matching website.
+
 searching for `site:medium.com searching methods` will match results for "searching methods" from the website "medium.com"
 
 ### imagesize:
 image results much have matching size.
+
 searching for `imagesize:1920x1080 kitty` will match kitty pictures with 1920x1080 resolution.
+
 combine this with inurl or site to get results that match a website source.
 
 ### filetype:
 results must be a file of the specified type.
+
 searching for `searching methods filetype:pdf` will match pdf files that are about searching methods.
+
 combine this with inurl or site to get results that match a website source.
 
+### logic gates
+logic gates can be especially useful for matching alternative wordings or multiple conditions.
 
+often, multiple terms are required to use exact matching, so the AND gate can be useful. to find guides about searching methods, you can use `"searching methods" AND "guide"`
+
+if you could use alternative terms, use the OR gate, like `"searching" AND ("tutorials" OR "guides")`
+
+when using multiple logic gates it's recommended to use brackets to group as shown.
 
 ## guide
 
@@ -117,7 +133,7 @@ just kidding. you gotta know what source you would be likely to find it from
 
 finding images can be hard, but [google advanced image search](https://www.google.com/advanced_image_search) is useful.
 
-and, yes, 
+and, yes, ai images are very useful as well. there'll be a guide to ai image generation in the future
 
 
 ## references

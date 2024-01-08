@@ -1,6 +1,7 @@
 ---
 title: 
-categories: 
+categories:
+  - by sublime
 description: 
 summary: 
 tags: 
@@ -15,7 +16,7 @@ cover:
   caption: ""
   relative: false
 date: 2023-11-25T11:47
-lastmod: 2023-12-22T18:18:19
+lastmod: 2024-01-08T12:31:12
 publishdate: 2000-22-22T22:22:22
 ---
 i've always been very interested in surveys.

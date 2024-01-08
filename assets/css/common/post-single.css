@@ -296,20 +296,21 @@
     margin-top: 56px;
 }
 
-.post-tags li {
+.post-categories li, .post-tags li {
     display: inline-block;
     margin-inline-end: 3px;
-    margin-bottom: 5px;
+    margin-bottom: 20px;
 }
 
+.post-categories a,
 .post-tags a,
 .share-buttons,
 .paginav {
     border-radius: var(--radius);
     background: var(--code-bg);
-    border: 1px solid var(--border);
 }
 
+.post-categories a,
 .post-tags a {
     display: block;
     padding-inline-start: 14px;
@@ -318,12 +319,15 @@
     font-size: 14px;
     line-height: 34px;
     background: var(--code-bg);
+    border: 1px inset var(--border);
 }
 
+.post-categories a:hover,
 .post-tags a:hover,
 .paginav a:hover {
     background: var(--border);
 }
+
 
 .share-buttons {
     margin: 14px 0;
