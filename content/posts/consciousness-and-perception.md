@@ -1,10 +1,9 @@
 ---
-title: analysis - consciousness and perception
+title: snapshot - consciousness and perception
 categories:
   - by sublime
-  - analysis
 description: 
-summary: 
+summary: a small philosophical snapshot
 tags:
   - philosophy
   - psychology
@@ -19,7 +18,7 @@ cover:
   caption: ""
   relative: false
 date: 2023-11-25T11:47
-lastmod: 2024-01-08T14:28:13
+lastmod: 2024-01-09T16:48:55
 publishdate: 2024-01-05T16:43:00
 ---
 
@@ -29,4 +28,4 @@ In perceiving the world there is more than just an immediate awareness of object
 
 Words fail to capture the experience in its totality no matter how carefully they are selected or how many are chosen. There is the experience itself and there is the perception of the thing and the two cannot be the same.49 Hence it is at one and the same time other and not other. 50It is not therefore a single unity but rather has an element belonging the realm of the sensuous and an element that is universal.
 
-Alone in the world, oneself can be neither subject nor object. The self needs the other to confer its status.
+Alone in the world, oneself can be neither subject nor object. The self needs the other to confer its status.∂

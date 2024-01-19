@@ -6,7 +6,6 @@ categories:
 description: 
 summary: 
 tags:
-  - by sublime
   - philosophy
   - psychology
 keywords: 
@@ -20,7 +19,7 @@ cover:
   caption: ""
   relative: false
 date: 2023-11-25T11:47
-lastmod: 2024-01-08T12:30:57
+lastmod: 2024-01-19T15:16:06
 publishdate: 2023-12-22T16:43:00
 ---
 

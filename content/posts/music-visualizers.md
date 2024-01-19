@@ -1,8 +1,7 @@
 ---
-title: guide - ai image generation
+title: analysis - music visualizers
 categories:
   - by lazycoder
-  - guide
 description: 
 summary: 
 tags: 
@@ -17,7 +16,7 @@ cover:
   caption: ""
   relative: false
 date: 2023-11-25T11:47
-lastmod: 2024-01-08T14:16:50
-publishdate: 2222-02-02T14:02:00
+lastmod: 2024-01-16T10:56:41
+publishdate: 2222-02-22T02:02:00
 ---
 
