@@ -17,8 +17,8 @@ cover:
   caption: ""
   relative: false
 date: 2023-11-25T11:47
-lastmod: 2024-02-04T13:27:02
-publishdate: 2222-02-22T02:02:00
+lastmod: 2024-02-04T17:25:03
+publishdate: 2024-02-02T02:02:00
 ---
 
 if you use a mac, the best way to install packages and apps would be to use [brew](https://brew.sh).

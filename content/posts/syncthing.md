@@ -2,7 +2,7 @@
 title: guide - use syncthing to sync files between computers (with git for version control)
 categories: 
 description: 
-summary: 
+summary: how to install syncthing and use it to sync files, and also use git to do version control
 tags: 
 keywords: 
 draft: false
@@ -15,8 +15,8 @@ cover:
   caption: ""
   relative: false
 date: 2023-11-25T11:47
-lastmod: 2024-02-04T16:00:20
-publishdate: 2222-02-22T02:02:00
+lastmod: 2024-02-04T17:25:07
+publishdate: 2024-02-03T16:04:00
 ---
 
 i needed to sync files between my computers so i used syncthing and git to sync and also used git for version control.

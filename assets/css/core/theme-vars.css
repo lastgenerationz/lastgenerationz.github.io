@@ -18,11 +18,11 @@
 }
 
 .dark {
-    --theme: rgb(17,17,17);
-    --entry: rgb(33, 33, 33);
+    --theme: rgb(0,0,0);
+    --entry: rgb(10, 10, 10);
     --primary: rgb(241, 241, 241);
-    --secondary: rgb(180, 180, 180);
-    --tertiary: rgb(33, 33, 33);
+    --secondary: rgb(200, 200, 200);
+    --tertiary: rgb(50, 50, 50);
     --content: rgb(236, 236, 236);
     --hljs-bg: rgb(22, 22, 22);
     --code-bg: rgb(33, 33, 33);
