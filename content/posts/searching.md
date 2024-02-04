@@ -17,7 +17,7 @@ cover:
   caption: 
   relative: false
 date: 2023-11-25T13:35
-lastmod: 2024-01-08T14:15:37
+lastmod: 2024-01-19T16:00:06
 publishdate: 2023-12-02T14:07:00
 ---
 ## google
@@ -28,6 +28,11 @@ when searching in google, using these arguments can make searching much easier.
 exact matching can make sure that the keyword is matched exactly.
 
 searching for `"searching methods"` will return results that match this exactly.
+
+### after: before:
+using "after:" or "before:" with a date in YYYY-MM-DD format can filter results by published date.
+
+for example, `after:2023-01-06 searching methods` 
 
 ### intitle:
 matching your search term in the title of the webpage.
@@ -137,6 +142,8 @@ and, yes, ai images are very useful as well. there'll be a guide to ai image gen
 
 
 ## references
+
 <https://youtu.be/tiN6T1LewmQ>
+
 <https://ahrefs.com/blog/google-advanced-search-operators/>
 

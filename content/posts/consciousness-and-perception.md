@@ -1,9 +1,10 @@
 ---
-title: snapshot - consciousness and perception
+title: snippet - consciousness and perception
 categories:
   - by sublime
+  - snippet
 description: 
-summary: a small philosophical snapshot
+summary: a small philosophical text about consciousness and perception
 tags:
   - philosophy
   - psychology
@@ -18,7 +19,7 @@ cover:
   caption: ""
   relative: false
 date: 2023-11-25T11:47
-lastmod: 2024-01-09T16:48:55
+lastmod: 2024-01-20T12:13:29
 publishdate: 2024-01-05T16:43:00
 ---
 

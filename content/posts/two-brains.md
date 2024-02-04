@@ -1,12 +1,9 @@
 ---
-title: snippet - asking the whys and asking the hows
-categories:
-  - by sublime
-  - snippet
+title: analysis - are there two brains inside you?
+categories: 
 description: 
 summary: 
-tags:
-  - poem
+tags: 
 keywords: 
 draft: true
 weight: 0
@@ -18,8 +15,36 @@ cover:
   caption: ""
   relative: false
 date: 2023-11-25T11:47
-lastmod: 2024-01-20T12:35:18
+lastmod: 2024-01-30T20:20:41
 publishdate: 2222-02-22T02:02:00
 ---
 
-when it's all so unclear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## references
+
+<https://www.youtube.com/watch?v=aOsCwRsLAR0>

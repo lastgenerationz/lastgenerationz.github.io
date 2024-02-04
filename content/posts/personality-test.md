@@ -1,9 +1,10 @@
 ---
-title: analysis - personality tests and how they work
+title: experiment - a personality test
 categories:
-  - analysis
+  - experiment
+  - by sublime
 description: 
-summary: 
+summary: this is a personality test that i designed... i researched about this and created this as an experiment!
 tags: 
 keywords: 
 draft: true
@@ -16,22 +17,25 @@ cover:
   caption: ""
   relative: false
 date: 2023-11-25T11:47
-lastmod: 2024-01-10T20:06:58
+lastmod: 2024-01-21T17:06:39
 publishdate: 2222-02-22T02:02:00
 ---
 
-### What is your dream career?
+What is your dream career?
 
-### What are your hobbies?
+What are your hobbies?
 
-### What is your deepest fear?
+What is your deepest fear?
 
+what would you do if you had 6 months to live?
+what would you do if you had a billion dollars?
+how would you like to die?
 
-### How do you relax after a stressful day?
+How do you relax after a stressful day?
 
-### Who can you trust with your deepest secrets?
+Who can you trust with your deepest secrets?
 
-### What would you be doing right now if you had no limitations at all?
+What would you be doing right now if you had no limitations at all?
 
 
 if you died right now, what will you be remembered for?
