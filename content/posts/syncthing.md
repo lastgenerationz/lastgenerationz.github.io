@@ -1,6 +1,8 @@
 ---
 title: guide - use syncthing to sync files between computers (with git for version control)
-categories: 
+categories:
+  - by sublime
+  - guide
 description: 
 summary: how to install syncthing and use it to sync files, and also use git to do version control
 tags: 
