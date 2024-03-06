@@ -152,10 +152,7 @@ menu:
       name: about
       url: /about/
       weight: 50
-    - identifier: subscribe
-      name: subscribe with rss
-      url: /subscribe/
-      weight: 60
+
 
 outputs:
   home:

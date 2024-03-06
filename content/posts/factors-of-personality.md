@@ -19,7 +19,7 @@ cover:
   caption: ""
   relative: false
 date: 2023-11-25T11:47
-lastmod: 2024-01-08T12:30:50
+lastmod: 2024-03-06T17:54:31
 publishdate: 2023-12-21T00:43:00
 ---
 i decided to research on personality because i was inspired by the definition of the 5 personality factors.
@@ -101,19 +101,7 @@ more neuroticism is considered to be a bad thing, so preferably one should not h
 
 sometimes one needs to let go of anxiety to enjoy their living moments...
 
-how about a quote?
 
-~
-
-“You know," said Arthur, "it's at times like this, when I'm trapped in a Vogon airlock with a man from Betelgeuse, and about to die of asphyxiation in deep space that I really wish I'd listened to what my mother told me when I was young."  
-
-"Why, what did she tell you?"  
-
-"I don't know, I didn't listen.”  
-
-Douglas Adams, The Hitchhiker's Guide to the Galaxy
-
-~
 
 
 ### openness to experience
